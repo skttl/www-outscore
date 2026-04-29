@@ -5,7 +5,7 @@ Touch-friendly scoreboard app for the dart variant "Outscore". Built with Nuxt 4
 ## Rules (short)
 
 - **3+ players**, each starting with 11 lives (configurable).
-- **Seeding**: each player throws 2 darts - highest score starts. Bots are assigned a seed score automatically.
+- **Seeding**: each player throws 2 darts simultaneously - highest score starts. Bots are assigned a seed score automatically.
 - **Play**: 3 darts per turn. The next player must at least match the previous player's score, otherwise they lose 1 life. The target is always updated to the most recent score.
 - **≥100**: take a life from another player (must steal if anyone has >1 life).
 - **180+**: all lives restored + steal a life.
