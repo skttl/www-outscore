@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Outscore",
+    "subtitle": "Dart scoreboard"
+  },
+  "home": {
+    "newGame": "New game",
+    "resume": "Resume game",
+    "newGameConfirm": "Start a new game and discard the current one?"
+  },
+  "setup": {
+    "title": "Setup",
+    "startLives": "Starting lives",
+    "addHuman": "Add human",
+    "addBot": "Add bot",
+    "name": "Name",
+    "seedScore": "Seed score (2 darts)",
+    "difficulty": "Difficulty",
+    "addParticipant": "Add participant",
+    "startGame": "Start game",
+    "minPlayers": "Min. 3 players",
+    "duplicateScore": "Score already taken",
+    "invalidScore": "Invalid 2-dart score",
+    "outOfRange": "Must be between 2 and 120",
+    "participants": "Participants",
+    "remove": "Remove",
+    "human": "Human",
+    "bot": "Bot",
+    "difficulties": {
+      "novice": "Novice",
+      "casual": "Casual",
+      "club": "Club",
+      "expert": "Expert",
+      "pro": "Pro"
+    },
+    "avg": "avg"
+  },
+  "game": {
+    "target": "Target",
+    "darts": "Darts",
+    "extra": "extra",
+    "missedDart": "Off board",
+    "ok": "OK",
+    "undo": "Undo",
+    "lives": "Lives",
+    "current": "Current",
+    "yourTurn": "Your turn",
+    "botThrowing": "{name} is throwing …",
+    "winner": "Winner",
+    "playAgain": "Play again",
+    "newGame": "New game",
+    "stealTitle": "Pick who loses a life",
+    "stealNoTargets": "No one to steal from - all opponents are on their last life",
+    "missAnnounce": "{n} dart(s) pass to the next player",
+    "lostLife": "{name} lost a life",
+    "refilled": "{name} got a full refill!",
+    "stoleLife": "{name} stole a life from {victim}",
+    "eliminated": "{name} is out!"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close"
+  },
+  "install": {
+    "title": "Install as app",
+    "subtitle": "Faster access, fullscreen mode",
+    "action": "Install",
+    "iosTitle": "Add to Home Screen",
+    "iosStep1": "Tap the Share button in {browser}",
+    "iosStep1Generic": "Tap the Share button in your browser",
+    "iosStep2": "Choose 'Add to Home Screen'",
+    "iosStep3": "Tap 'Add' in the top-right corner"
+  }
+}

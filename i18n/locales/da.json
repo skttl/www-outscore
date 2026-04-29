@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Outscore",
+    "subtitle": "Dart scoreboard"
+  },
+  "home": {
+    "newGame": "Nyt spil",
+    "resume": "Genoptag spil",
+    "newGameConfirm": "Start nyt spil og slet det igangværende?"
+  },
+  "setup": {
+    "title": "Opsætning",
+    "startLives": "Antal liv",
+    "addHuman": "Tilføj menneske",
+    "addBot": "Tilføj bot",
+    "name": "Navn",
+    "seedScore": "Seedningsscore (2 pile)",
+    "difficulty": "Sværhedsgrad",
+    "addParticipant": "Tilføj deltager",
+    "startGame": "Start spil",
+    "minPlayers": "Min. 3 deltagere",
+    "duplicateScore": "Scoren er allerede taget",
+    "invalidScore": "Ugyldig 2-pile-score",
+    "outOfRange": "Skal være mellem 2 og 120",
+    "participants": "Deltagere",
+    "remove": "Fjern",
+    "human": "Menneske",
+    "bot": "Bot",
+    "difficulties": {
+      "novice": "Begynder",
+      "casual": "Hobby",
+      "club": "Klub",
+      "expert": "Ekspert",
+      "pro": "Pro"
+    },
+    "avg": "snit"
+  },
+  "game": {
+    "target": "Mål",
+    "darts": "Pile",
+    "extra": "ekstra",
+    "missedDart": "Pil ud",
+    "ok": "OK",
+    "undo": "Fortryd",
+    "lives": "Liv",
+    "current": "Aktuel",
+    "yourTurn": "Din tur",
+    "botThrowing": "{name} kaster …",
+    "winner": "Vinder",
+    "playAgain": "Spil igen",
+    "newGame": "Nyt spil",
+    "stealTitle": "Vælg hvem der mister et liv",
+    "stealNoTargets": "Ingen kan stjæles fra - alle modstandere har deres sidste liv",
+    "missAnnounce": "{n} pil(e) går videre til næste spiller",
+    "lostLife": "{name} mistede et liv",
+    "refilled": "{name} fik fyldt liv op!",
+    "stoleLife": "{name} stjal et liv fra {victim}",
+    "eliminated": "{name} er ude!"
+  },
+  "common": {
+    "cancel": "Annullér",
+    "confirm": "Bekræft",
+    "close": "Luk"
+  },
+  "install": {
+    "title": "Installer som app",
+    "subtitle": "Hurtigere adgang og fuldskærm",
+    "action": "Installer",
+    "iosTitle": "Tilføj til hjemmeskærm",
+    "iosStep1": "Tryk på Del-knappen i {browser}",
+    "iosStep1Generic": "Tryk på Del-knappen i din browser",
+    "iosStep2": "Vælg 'Føj til hjemmeskærm'",
+    "iosStep3": "Tryk 'Tilføj' i øverste højre hjørne"
+  }
+}

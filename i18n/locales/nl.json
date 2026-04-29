@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Outscore",
+    "subtitle": "Darts-scorebord"
+  },
+  "home": {
+    "newGame": "Nieuw spel",
+    "resume": "Spel hervatten",
+    "newGameConfirm": "Een nieuw spel starten en het huidige verwerpen?"
+  },
+  "setup": {
+    "title": "Instellen",
+    "startLives": "Startlevens",
+    "addHuman": "Speler toevoegen",
+    "addBot": "Bot toevoegen",
+    "name": "Naam",
+    "seedScore": "Plaatsingsscore (2 pijlen)",
+    "difficulty": "Moeilijkheid",
+    "addParticipant": "Deelnemer toevoegen",
+    "startGame": "Spel starten",
+    "minPlayers": "Min. 3 spelers",
+    "duplicateScore": "Score is al genomen",
+    "invalidScore": "Ongeldige 2-pijlen-score",
+    "outOfRange": "Moet tussen 2 en 120 zijn",
+    "participants": "Deelnemers",
+    "remove": "Verwijderen",
+    "human": "Mens",
+    "bot": "Bot",
+    "difficulties": {
+      "novice": "Beginner",
+      "casual": "Hobby",
+      "club": "Club",
+      "expert": "Expert",
+      "pro": "Pro"
+    },
+    "avg": "gem."
+  },
+  "game": {
+    "target": "Doel",
+    "darts": "Pijlen",
+    "extra": "extra",
+    "missedDart": "Mis bord",
+    "ok": "OK",
+    "undo": "Ongedaan maken",
+    "lives": "Levens",
+    "current": "Huidig",
+    "yourTurn": "Jouw beurt",
+    "botThrowing": "{name} gooit …",
+    "winner": "Winnaar",
+    "playAgain": "Opnieuw spelen",
+    "newGame": "Nieuw spel",
+    "stealTitle": "Kies wie een leven verliest",
+    "stealNoTargets": "Niemand om van te stelen - alle tegenstanders hebben hun laatste leven",
+    "missAnnounce": "{n} pijl(en) gaan naar de volgende speler",
+    "lostLife": "{name} heeft een leven verloren",
+    "refilled": "{name} heeft alle levens terug!",
+    "stoleLife": "{name} heeft een leven gestolen van {victim}",
+    "eliminated": "{name} is uit!"
+  },
+  "common": {
+    "cancel": "Annuleren",
+    "confirm": "Bevestigen",
+    "close": "Sluiten"
+  },
+  "install": {
+    "title": "Installeer als app",
+    "subtitle": "Snellere toegang, volledig scherm",
+    "action": "Installeren",
+    "iosTitle": "Toevoegen aan beginscherm",
+    "iosStep1": "Tik op de Deel-knop in {browser}",
+    "iosStep1Generic": "Tik op de Deel-knop in je browser",
+    "iosStep2": "Kies 'Zet op beginscherm'",
+    "iosStep3": "Tik rechtsboven op 'Voeg toe'"
+  }
+}

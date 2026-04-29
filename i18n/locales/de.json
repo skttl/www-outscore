@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Outscore",
+    "subtitle": "Dart-Anzeigetafel"
+  },
+  "home": {
+    "newGame": "Neues Spiel",
+    "resume": "Spiel fortsetzen",
+    "newGameConfirm": "Neues Spiel starten und das aktuelle verwerfen?"
+  },
+  "setup": {
+    "title": "Einrichtung",
+    "startLives": "Startleben",
+    "addHuman": "Spieler hinzufügen",
+    "addBot": "Bot hinzufügen",
+    "name": "Name",
+    "seedScore": "Setz-Punktzahl (2 Pfeile)",
+    "difficulty": "Schwierigkeit",
+    "addParticipant": "Teilnehmer hinzufügen",
+    "startGame": "Spiel starten",
+    "minPlayers": "Mind. 3 Spieler",
+    "duplicateScore": "Punktzahl bereits vergeben",
+    "invalidScore": "Ungültige 2-Pfeil-Punktzahl",
+    "outOfRange": "Muss zwischen 2 und 120 liegen",
+    "participants": "Teilnehmer",
+    "remove": "Entfernen",
+    "human": "Mensch",
+    "bot": "Bot",
+    "difficulties": {
+      "novice": "Anfänger",
+      "casual": "Hobby",
+      "club": "Verein",
+      "expert": "Experte",
+      "pro": "Profi"
+    },
+    "avg": "Schnitt"
+  },
+  "game": {
+    "target": "Ziel",
+    "darts": "Pfeile",
+    "extra": "extra",
+    "missedDart": "Daneben",
+    "ok": "OK",
+    "undo": "Rückgängig",
+    "lives": "Leben",
+    "current": "Aktuell",
+    "yourTurn": "Du bist dran",
+    "botThrowing": "{name} wirft …",
+    "winner": "Sieger",
+    "playAgain": "Nochmal spielen",
+    "newGame": "Neues Spiel",
+    "stealTitle": "Wähle, wer ein Leben verliert",
+    "stealNoTargets": "Niemand zum Stehlen - alle Gegner haben ihr letztes Leben",
+    "missAnnounce": "{n} Pfeil(e) gehen an den nächsten Spieler",
+    "lostLife": "{name} hat ein Leben verloren",
+    "refilled": "{name} hat alle Leben zurück!",
+    "stoleLife": "{name} hat {victim} ein Leben gestohlen",
+    "eliminated": "{name} ist raus!"
+  },
+  "common": {
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "close": "Schließen"
+  },
+  "install": {
+    "title": "Als App installieren",
+    "subtitle": "Schnellerer Zugriff, Vollbild-Modus",
+    "action": "Installieren",
+    "iosTitle": "Zum Home-Bildschirm hinzufügen",
+    "iosStep1": "Tippe auf den Teilen-Button in {browser}",
+    "iosStep1Generic": "Tippe auf den Teilen-Button in deinem Browser",
+    "iosStep2": "Wähle 'Zum Home-Bildschirm'",
+    "iosStep3": "Tippe oben rechts auf 'Hinzufügen'"
+  }
+}

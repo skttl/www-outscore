@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Outscore",
+    "subtitle": "Tableau de score de fléchettes"
+  },
+  "home": {
+    "newGame": "Nouvelle partie",
+    "resume": "Reprendre la partie",
+    "newGameConfirm": "Démarrer une nouvelle partie et abandonner l'actuelle ?"
+  },
+  "setup": {
+    "title": "Configuration",
+    "startLives": "Vies initiales",
+    "addHuman": "Ajouter un joueur",
+    "addBot": "Ajouter un bot",
+    "name": "Nom",
+    "seedScore": "Score de placement (2 fléchettes)",
+    "difficulty": "Difficulté",
+    "addParticipant": "Ajouter un participant",
+    "startGame": "Démarrer la partie",
+    "minPlayers": "Min. 3 joueurs",
+    "duplicateScore": "Score déjà pris",
+    "invalidScore": "Score 2-fléchettes invalide",
+    "outOfRange": "Doit être entre 2 et 120",
+    "participants": "Participants",
+    "remove": "Retirer",
+    "human": "Humain",
+    "bot": "Bot",
+    "difficulties": {
+      "novice": "Débutant",
+      "casual": "Amateur",
+      "club": "Club",
+      "expert": "Expert",
+      "pro": "Pro"
+    },
+    "avg": "moy."
+  },
+  "game": {
+    "target": "Cible",
+    "darts": "Fléchettes",
+    "extra": "extra",
+    "missedDart": "Hors cible",
+    "ok": "OK",
+    "undo": "Annuler",
+    "lives": "Vies",
+    "current": "Actuel",
+    "yourTurn": "À ton tour",
+    "botThrowing": "{name} lance …",
+    "winner": "Gagnant",
+    "playAgain": "Rejouer",
+    "newGame": "Nouvelle partie",
+    "stealTitle": "Choisis qui perd une vie",
+    "stealNoTargets": "Personne à voler - tous les adversaires sont à leur dernière vie",
+    "missAnnounce": "{n} fléchette(s) passent au joueur suivant",
+    "lostLife": "{name} a perdu une vie",
+    "refilled": "{name} a récupéré toutes ses vies !",
+    "stoleLife": "{name} a volé une vie à {victim}",
+    "eliminated": "{name} est éliminé !"
+  },
+  "common": {
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "close": "Fermer"
+  },
+  "install": {
+    "title": "Installer comme appli",
+    "subtitle": "Accès rapide, mode plein écran",
+    "action": "Installer",
+    "iosTitle": "Ajouter à l'écran d'accueil",
+    "iosStep1": "Touche le bouton Partager dans {browser}",
+    "iosStep1Generic": "Touche le bouton Partager dans ton navigateur",
+    "iosStep2": "Choisis 'Sur l'écran d'accueil'",
+    "iosStep3": "Touche 'Ajouter' en haut à droite"
+  }
+}

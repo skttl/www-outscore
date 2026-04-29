@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Outscore",
+    "subtitle": "Tabellone freccette"
+  },
+  "home": {
+    "newGame": "Nuova partita",
+    "resume": "Riprendi partita",
+    "newGameConfirm": "Iniziare una nuova partita e annullare quella attuale?"
+  },
+  "setup": {
+    "title": "Configurazione",
+    "startLives": "Vite iniziali",
+    "addHuman": "Aggiungi giocatore",
+    "addBot": "Aggiungi bot",
+    "name": "Nome",
+    "seedScore": "Punteggio di seeding (2 freccette)",
+    "difficulty": "Difficoltà",
+    "addParticipant": "Aggiungi partecipante",
+    "startGame": "Avvia partita",
+    "minPlayers": "Min. 3 giocatori",
+    "duplicateScore": "Punteggio già preso",
+    "invalidScore": "Punteggio 2-freccette non valido",
+    "outOfRange": "Deve essere tra 2 e 120",
+    "participants": "Partecipanti",
+    "remove": "Rimuovi",
+    "human": "Umano",
+    "bot": "Bot",
+    "difficulties": {
+      "novice": "Principiante",
+      "casual": "Hobby",
+      "club": "Club",
+      "expert": "Esperto",
+      "pro": "Pro"
+    },
+    "avg": "media"
+  },
+  "game": {
+    "target": "Bersaglio",
+    "darts": "Freccette",
+    "extra": "extra",
+    "missedDart": "Fuori",
+    "ok": "OK",
+    "undo": "Annulla",
+    "lives": "Vite",
+    "current": "Attuale",
+    "yourTurn": "Tocca a te",
+    "botThrowing": "{name} sta tirando …",
+    "winner": "Vincitore",
+    "playAgain": "Gioca di nuovo",
+    "newGame": "Nuova partita",
+    "stealTitle": "Scegli a chi togliere una vita",
+    "stealNoTargets": "Nessuno a cui rubare - tutti gli avversari sono all'ultima vita",
+    "missAnnounce": "{n} freccetta(e) passano al giocatore successivo",
+    "lostLife": "{name} ha perso una vita",
+    "refilled": "{name} ha recuperato tutte le vite!",
+    "stoleLife": "{name} ha rubato una vita a {victim}",
+    "eliminated": "{name} è eliminato!"
+  },
+  "common": {
+    "cancel": "Annulla",
+    "confirm": "Conferma",
+    "close": "Chiudi"
+  },
+  "install": {
+    "title": "Installa come app",
+    "subtitle": "Accesso rapido, schermo intero",
+    "action": "Installa",
+    "iosTitle": "Aggiungi alla schermata Home",
+    "iosStep1": "Tocca il pulsante Condividi in {browser}",
+    "iosStep1Generic": "Tocca il pulsante Condividi nel tuo browser",
+    "iosStep2": "Scegli 'Aggiungi a Home'",
+    "iosStep3": "Tocca 'Aggiungi' in alto a destra"
+  }
+}

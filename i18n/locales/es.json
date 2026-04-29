@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Outscore",
+    "subtitle": "Marcador de dardos"
+  },
+  "home": {
+    "newGame": "Nueva partida",
+    "resume": "Reanudar partida",
+    "newGameConfirm": "¿Iniciar una nueva partida y descartar la actual?"
+  },
+  "setup": {
+    "title": "Configuración",
+    "startLives": "Vidas iniciales",
+    "addHuman": "Añadir jugador",
+    "addBot": "Añadir bot",
+    "name": "Nombre",
+    "seedScore": "Puntuación inicial (2 dardos)",
+    "difficulty": "Dificultad",
+    "addParticipant": "Añadir participante",
+    "startGame": "Iniciar partida",
+    "minPlayers": "Mín. 3 jugadores",
+    "duplicateScore": "Puntuación ya tomada",
+    "invalidScore": "Puntuación de 2 dardos inválida",
+    "outOfRange": "Debe estar entre 2 y 120",
+    "participants": "Participantes",
+    "remove": "Quitar",
+    "human": "Humano",
+    "bot": "Bot",
+    "difficulties": {
+      "novice": "Principiante",
+      "casual": "Aficionado",
+      "club": "Club",
+      "expert": "Experto",
+      "pro": "Profesional"
+    },
+    "avg": "media"
+  },
+  "game": {
+    "target": "Objetivo",
+    "darts": "Dardos",
+    "extra": "extra",
+    "missedDart": "Fuera",
+    "ok": "OK",
+    "undo": "Deshacer",
+    "lives": "Vidas",
+    "current": "Actual",
+    "yourTurn": "Tu turno",
+    "botThrowing": "{name} está lanzando …",
+    "winner": "Ganador",
+    "playAgain": "Jugar de nuevo",
+    "newGame": "Nueva partida",
+    "stealTitle": "Elige a quién quitarle una vida",
+    "stealNoTargets": "Nadie a quien robar - todos los rivales están en su última vida",
+    "missAnnounce": "{n} dardo(s) pasan al siguiente jugador",
+    "lostLife": "{name} perdió una vida",
+    "refilled": "¡{name} recuperó todas las vidas!",
+    "stoleLife": "{name} le robó una vida a {victim}",
+    "eliminated": "¡{name} está eliminado!"
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar"
+  },
+  "install": {
+    "title": "Instalar como app",
+    "subtitle": "Acceso rápido, pantalla completa",
+    "action": "Instalar",
+    "iosTitle": "Añadir a la pantalla de inicio",
+    "iosStep1": "Toca el botón Compartir en {browser}",
+    "iosStep1Generic": "Toca el botón Compartir en tu navegador",
+    "iosStep2": "Elige 'Añadir a la pantalla de inicio'",
+    "iosStep3": "Toca 'Añadir' arriba a la derecha"
+  }
+}
